@@ -498,6 +498,7 @@ h5,
 h6 {
     font-family: 'Fira Sans', sans-serif;
     text-rendering: optimizeLegibility;
+	text-align: left;
     color: #000
 }
 
