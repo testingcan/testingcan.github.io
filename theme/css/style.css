@@ -538,7 +538,8 @@ h6 a {
 p,
 ul,
 ol {
-    margin: 2em auto
+    margin: 2em auto;
+	text-align: justify
 }
 
 ul {
