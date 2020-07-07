@@ -3,12 +3,11 @@
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
 }
 
 body {
-    margin: 0;
-	text-align: justify;
+    margin: 0
 }
 
 article,
@@ -23,18 +22,13 @@ main,
 nav,
 section,
 summary {
-    display: block;
+    display: block
 }
 
 audio,
 canvas,
 progress,
 video {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100% !important;
-	height: 100% !important;
     display: inline-block;
     vertical-align: baseline
 }
@@ -73,9 +67,7 @@ dfn {
 
 h1 {
     font-size: 2em;
-    margin: .67em 0;
-	text-align: center
-	
+    margin: .67em 0
 }
 
 mark {
@@ -482,7 +474,7 @@ body {
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    overflow-x: hidden;
+    overflow-x: hidden
 }
 
 a {
@@ -505,7 +497,6 @@ h5,
 h6 {
     font-family: 'Fira Sans', sans-serif;
     text-rendering: optimizeLegibility;
-	text-align: left;
     color: #000
 }
 
@@ -1308,12 +1299,8 @@ img {
 }
 
 .container {
-	text-align: center !important;
-    position: relative;
-	width: 100% !important;
-	height: 0 !important;
+    position: relative
 }
-
 
 .container .post {
     padding: 4em 0
