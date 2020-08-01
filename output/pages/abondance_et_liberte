@@ -7,14 +7,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 
-  <title>About</title>
+  <title>Lektüre "Abondance et liberté"</title>
 
 
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="origin" />
   <meta name="generator" content="Pelican" />
-<link href="http://standardsanddeviations.net/pages/about.html" rel="canonical" />
+<link href="http://standardsanddeviations.net//tag/abondance-et-liberte.html" rel="canonical" />
 
   <!-- Feed -->
 
@@ -75,8 +75,8 @@
     <p class="nav-label">Menu</p>
     <ul>
 
-              <li role="presentation"><a href="http://standardsanddeviations.net//tag/abondance-et-liberte.html">Lektüre "Abondance et liberté"</a></li>
-              <li class="nav-about active" role="presentation"><a href="http://standardsanddeviations.net/pages/about.html">About</a></li>
+              <li class="nav-lekture-abondance-et-liberte active" role="presentation"><a href="http://standardsanddeviations.net//tag/abondance-et-liberte.html">Lektüre "Abondance et liberté"</a></li>
+              <li role="presentation"><a href="http://standardsanddeviations.net/pages/about.html">About</a></li>
 
     </ul>
   </div>
@@ -93,7 +93,7 @@
             <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
           </span>
         </nav>
-        <h1 class="post-title">About</h1>
+        <h1 class="post-title">Lektüre "Abondance et liberté"</h1>
             <div class="post-cover cover" style="background-image: url('http://standardsanddeviations.net/assets/images/geometry.jpg')">
       </div>
     </header>
@@ -105,9 +105,7 @@
       <article class="post">
       <div class="inner">
           <section class="post-content">
-              <p>This is a small blog to organise thoughts. My main focus of
-interests is: Sociology, arts &amp; entertainment, critical theory. Since I am lazy, this is currently all the 
-information that'll be here.</p>
+              
           </section>
       </div>
       </article>
